@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Different content for file1 in B3
 Different content for file1 in B3
+=======
+New content for file1 in B2
+New content for file1 in C4
+>>>>>>> C4
+New content for file1 in C4
